@@ -2,12 +2,6 @@
 
 A command-line interface application built with Python that allows users to efficiently manage tasks with standard features and intelligent enhancements powered by the Gemini API.
 
-┏━━━━┳━━━━━━━━━━━━━┳━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━┓
-┃ ID ┃ Description ┃ Priority ┃ Due Date           ┃ Context ┃ Project ┃ Status  ┃
-┡━━━━╇━━━━━━━━━━━━━╇━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━┩
-│ 1  │ sleep       │ high     │ Monday at 11:59 PM │         │         │ Pending │
-└────┴─────────────┴──────────┴────────────────────┴─────────┴─────────┴─────────┘
-
 ## Features
 
 - **Core Task Management**:
